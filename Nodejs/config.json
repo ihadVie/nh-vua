@@ -1,0 +1,47 @@
+{
+  "language": "vi",
+  "DeveloperMode": false,
+  "autoCreateDB": true,
+  "iconUnsend": {
+    "status": true,
+    "icon": "⏳"
+  },
+  "notiGroup": false,
+  "NOTIFICATION": true,
+  "allowInbox": true,
+  "commandDisabled": [],
+  "eventDisabled": [],
+  "BOTNAME": "Dexskill",
+  "AMDIN_NAME": "",
+  "FACEBOOK_ADMIN": "https://www.facebook.com/profile.php?id=61550796218144",
+  "PREFIX": "-",
+  "ADMINBOT": [
+    "61550796218144"
+  ],
+  "NDH": [],
+  "DATABASE": {
+    "type": "mongodb",
+    "uri": "mongodb+srv://xaumadoc201_db_user:MẬT_KHẨU_CỦA_BẠN_TẠI_ĐÂY@cluster0.plpoio7.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+    "options": {
+      "useNewUrlParser": true,
+      "useUnifiedTopology": true
+    }
+  },
+  "APPSTATEPATH": "appstate.json",
+  "FCAOption": {
+    "forceLogin": true,
+    "listenEvents": true,
+    "pauseLog": true,
+    "logLevel": "error",
+    "selfListen": false,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+  },
+  "menuConfig": {
+    "autoUnsend": true,
+    "unsendAfter": 60
+  },
+  "refreshAppstate": {
+    "status": true,
+    "time": 43200000
+  }
+}

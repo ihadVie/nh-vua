@@ -1,0 +1,32 @@
+[
+  {
+    "senderID": "100089032733850",
+    "money": "0",
+    "lastInterestTime": "2026-01-11T08:31:30.784Z"
+  },
+  {
+    "senderID": "100068650830893",
+    "money": "14514999",
+    "lastInterestTime": "2026-01-11T08:31:45.405Z"
+  },
+  {
+    "senderID": "100071796094754",
+    "money": "25791000",
+    "lastInterestTime": "2026-01-11T10:20:09.345Z"
+  },
+  {
+    "senderID": "61552741409349",
+    "money": "0",
+    "lastInterestTime": "2026-01-11T11:03:33.537Z"
+  },
+  {
+    "senderID": "61586105874510",
+    "money": "11361000",
+    "lastInterestTime": "2026-01-11T11:36:32.215Z"
+  },
+  {
+    "senderID": "61582650281926",
+    "money": "5000000",
+    "lastInterestTime": "2026-01-11T12:29:34.837Z"
+  }
+]

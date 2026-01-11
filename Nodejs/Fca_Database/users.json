@@ -1,0 +1,78 @@
+{
+  "61550796218144": {
+    "name": "Văn Lợi",
+    "uid": "61550796218144",
+    "data": {
+      "fishInventory": [
+        {
+          "name": "Cá Rồng",
+          "price": 350000,
+          "rarity": "legendary",
+          "chance": 0.002
+        },
+        {
+          "name": "Cá Mập",
+          "price": 8500,
+          "rarity": "rare",
+          "chance": 0.03
+        }
+      ],
+      "canCau": {
+        "owned": [
+          "rẻ"
+        ],
+        "equip": "rẻ"
+      },
+      "shards": {
+        "infinity": 0,
+        "everlasting": 0,
+        "supreme": 1,
+        "origin": 0
+      },
+      "fishExp": 45,
+      "fishLevel": 1,
+      "fishCooldown": 1768110111515,
+      "fishCount": 2,
+      "fishHistory": [
+        {
+          "name": "Cá Rồng",
+          "price": 350000,
+          "rarity": "legendary",
+          "chance": 0.002
+        },
+        {
+          "name": "Cá Mập",
+          "price": 8500,
+          "rarity": "rare",
+          "chance": 0.03
+        }
+      ],
+      "fishSkin": "Không có",
+      "bait": null,
+      "bank": {
+        "debt": "0",
+        "debtUser": "0",
+        "expire": 0,
+        "safeUntil": 0,
+        "lenderID": "",
+        "debtLog": [],
+        "lastCollectAt": 0
+      }
+    }
+  },
+  "100089032733850": {
+    "name": "Ng Vanh",
+    "uid": "100089032733850",
+    "data": {
+      "bank": {
+        "debt": "0",
+        "debtUser": "0",
+        "expire": 0,
+        "safeUntil": 0,
+        "lenderID": "",
+        "debtLog": [],
+        "lastCollectAt": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "triggerPhrases": ["bot ơi kem", "kem ơi", "bé kem"],
+  "imageKeywords": [
+    "vẽ",
+    "ve",
+    "tạo ảnh",
+    "tao anh",
+    "làm ảnh",
+    "lam anh",
+    "draw",
+    "image",
+    "avatar",
+    "sticker",
+    "logo",
+    "poster",
+    "banner",
+    "meme",
+    "wallpaper"
+  ],
+  "imageIgnorePhrases": ["ảnh này mờ", "ảnh này đẹp"],
+  "reactionCooldownMs": 20000,
+  "reactionEmojis": ["❤️", "😂", "😆", "🥺", "✨", "👍"],
+  "imageSize": "1024x1024"
+}
